@@ -8,7 +8,7 @@ Hey there! I'm Dominik, a passionate student on a quest for knowledge and self-i
 
 ## About Me 🎓
 
-- 📚 I'm a student of HTL Neufelden majoring in Computer Business Sciences.
+- 📚 I'm a student of ****** majoring in Computer Business Sciences.
 - 💡 I believe in the power of curiosity and continuous learning.
 - 🌍 Exploring the vast world of technology and beyond.
 
